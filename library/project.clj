@@ -18,6 +18,8 @@
 
   :dependencies [[org.clojure/clojure "1.9.0"]
                  [org.clojure/data.json "0.2.6"]
+                 [com.bhauman/spell-spec "0.1.1"]
+                 [expound "0.7.1"]
                  [karma-reporter "3.1.0"]
                  [meta-merge "1.0.0"]]
 
